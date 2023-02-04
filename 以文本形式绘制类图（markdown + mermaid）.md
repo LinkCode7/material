@@ -6,6 +6,11 @@
 ## [Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
 >Mermaid 是一种基于 JavaScript 的图表绘制工具，它使用受 Markdown 启发的文本定义和渲染器来创建和修改复杂的图表。<br>Mermaid 的主要目的是帮助文档跟上开发的步伐，允许您使用文本和代码创建图表和可视化
 
+## 预览
+>VSCode + 插件
+Markdown Preview Enhanced（可选）
+Markdown All in One
+Markdown Preview Mermaid Support
 
 ## [UML中六种类与类之间的关系](https://www.ibm.com/docs/zh/rsm/7.5.0?topic=diagrams-relationships-in-class)
 >泛化（Generalization）、实现（Realization）、关联（Association）、聚合（Aggregation）、组合（Composition）、依赖（Dependency）
