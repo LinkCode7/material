@@ -83,7 +83,7 @@ void SkmTextLine::paintBulletBlob(SkCanvas* canvas);
 
 
 ## Next
-不要强调问题，尝试推进问题，解决问题
+不要强调问题，尝试推进问题，解决问题 & 正视问题
 
 # 其它
 ## [skia编译](https://skia.org/docs/user/build/)
@@ -97,3 +97,22 @@ InstalledDir: C:\LLVM\bin
 // 编译指令
 bin/gn.exe gen out/share --args='is_debug=true is_official_build=false is_component_build=true skia_use_system_libjpeg_turbo=false skia_use_libwebp_encode = false skia_use_system_freetype2=false skia_use_system_libpng=false skia_use_system_libwebp=false skia_use_system_zlib=false skia_use_system_icu=false skia_use_freetype = true skia_use_system_harfbuzz=false skia_enable_fontmgr_win = false skia_enable_fontmgr_win_gdi = false skia_use_expat = true skia_use_system_expat = false skia_enable_fontmgr_android = false skia_use_dng_sdk = false skia_enable_fontmgr_custom_directory = true  clang_win = ""C:\LLVM""'
 ```
+
+[CMake 入门实战](https://www.hahack.com/codes/cmake/)
+
+#### C++招聘目标2023.02.06
+| 经验要求 | 组内定位 | 备注 |
+| :---:| :---: | :---: |
+几何图形 | 拉伸、矢量、路径、布尔运算 | 矩阵、向量、2D、3D、平移、旋转、缩放，CAD、三维建模
+大规模重构经验 | 协同管理、撤销重做、UI交互、测试代码等局部重构 | 代码设计、设计模式、设计原则、架构原则 
+内存优化、性能优化 | 大文档打开，业务侧性能瓶颈突破 | 内存管理、内存优化
+文本 | bug修改&重构，文本、字体底层编辑器相关，语言学相关 | 
+调试工具开发、研发效率改进 | 
+
+
+[简书CMake](https://www.jianshu.com/p/cbee27847638)
+[CMake-Best-Practices](https://github.com/PacktPublishing/CMake-Best-Practices)
+[CMake-Best-Practices翻译](https://github.com/xiaoweiChen/CMake-Best-Practices)
+
+"{\"newIndex\":5,\"newParentId\":\"0:1\",\"behavior\":\"SCROLLS\"}"
+PxSymbolPropBase.cpp
