@@ -29,20 +29,22 @@
 >    - 导入的缺失字体且没有GeometryData的文档（通过回退字体列表显示）
 
 #### emoji相关
-历史：https://www.jianshu.com/p/e464970ae18a
-文本相关知识：http://www.cncsto.com/article/11509
+历史：https://www.jianshu.com/p/e464970ae18a<br>
+文本相关知识：http://www.cncsto.com/article/11509<br>
 有用的：https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/platform/fonts/;bpv=0;bpt=0
->谷歌开源浏览器chromium：[GitHub](https://github.com/chromium/chromium)、[GoogleGit](https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/)、[blink](https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/;bpv=1;bpt=0)
-[chromium官方文档](https://chromium.sourceforge.net/doc/)
+>谷歌开源浏览器chromium：[GitHub](https://github.com/chromium/chromium)、[GoogleGit](https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/)<br>
+[blink-代码浏览^_^](https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/;bpv=1;bpt=0)<br>
+[chromium官方文档](https://chromium.sourceforge.net/doc/)<br>
 [WebKit->blink](http://devrel.zoomquiet.top/data/20190813173638/index.html)
 
 [pixso.emoji图片来源](https://www.unicode.org/emoji/charts/full-emoji-list.html)
 
-[UNICODE EMOJI](http://www.unicode.org/reports/tr51/#Subject_Emoji_Modifiers)
-[Emoji 识别与过滤](https://mupceet.com/2018/07/emoji-distinguish&filter/)
-[emoji 字符的识别与过滤](https://blog.csdn.net/LawssssCat/article/details/103435633)
-[匹配emoji的正则表达式](https://ihateregex.io/expr/emoji/)
-[emoji-released](http://unicode.org/emoji/charts/emoji-released.html)
+[UNICODE EMOJI](http://www.unicode.org/reports/tr51/#Subject_Emoji_Modifiers)<br>
+[Emoji 识别与过滤](https://mupceet.com/2018/07/emoji-distinguish&filter/)<br>
+[emoji 字符的识别与过滤](https://blog.csdn.net/LawssssCat/article/details/103435633)<br>
+[匹配emoji的正则表达式](https://ihateregex.io/expr/emoji/)<br>
+[emoji-released](http://unicode.org/emoji/charts/emoji-released.html)<br>
+[emoji-test.txt](https://unicode.org/Public/emoji/11.0/)
 
 #### unicode
 1个字节=8位
@@ -113,8 +115,3 @@ bin/gn.exe gen out/share --args='is_debug=true is_official_build=false is_compon
 [简书CMake](https://www.jianshu.com/p/cbee27847638)
 [CMake-Best-Practices](https://github.com/PacktPublishing/CMake-Best-Practices)
 [CMake-Best-Practices翻译](https://github.com/xiaoweiChen/CMake-Best-Practices)
-
-"{\"newIndex\":5,\"newParentId\":\"0:1\",\"behavior\":\"SCROLLS\"}"
-PxSymbolPropBase.cpp
-
-
