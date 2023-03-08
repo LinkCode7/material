@@ -85,7 +85,9 @@ void SkmTextLine::paintBulletBlob(SkCanvas* canvas);
 
 
 ## Next
-不要强调问题，尝试推进问题，解决问题 & 正视问题
+"不要强调问题，尝试推进问题，解决问题" & 正视问题
+
+[boost.geometry.spatial_indexes](https://www.boost.org/doc/libs/1_81_0/libs/geometry/doc/html/geometry/spatial_indexes/)
 
 # 其它
 ## [skia编译](https://skia.org/docs/user/build/)
@@ -100,8 +102,6 @@ InstalledDir: C:\LLVM\bin
 bin/gn.exe gen out/share --args='is_debug=true is_official_build=false is_component_build=true skia_use_system_libjpeg_turbo=false skia_use_libwebp_encode = false skia_use_system_freetype2=false skia_use_system_libpng=false skia_use_system_libwebp=false skia_use_system_zlib=false skia_use_system_icu=false skia_use_freetype = true skia_use_system_harfbuzz=false skia_enable_fontmgr_win = false skia_enable_fontmgr_win_gdi = false skia_use_expat = true skia_use_system_expat = false skia_enable_fontmgr_android = false skia_use_dng_sdk = false skia_enable_fontmgr_custom_directory = true  clang_win = ""C:\LLVM""'
 ```
 
-[CMake 入门实战](https://www.hahack.com/codes/cmake/)
-
 #### C++招聘目标2023.02.06
 | 经验要求 | 组内定位 | 备注 |
 | :---:| :---: | :---: |
@@ -111,7 +111,17 @@ bin/gn.exe gen out/share --args='is_debug=true is_official_build=false is_compon
 文本 | bug修改&重构，文本、字体底层编辑器相关，语言学相关 | 
 调试工具开发、研发效率改进 | 
 
+#### about
+windows消息机制，文件系统，进程、线程管理和调度，~~内存管理~~，深入理解tcp/udp协议，windows操作系统原理<br>
+点云提取，网格化，mesh网格简化，三角面构建，路径规划，曲线、曲面相关专业知识<br>
+计算几何：计算几何第一章-扫描线（只要计算求交，只能用扫描线），clipper,cgal,leda,opencascad,gis,boost/rtree<br>
+琢磨透各种扫描线算法-才能做好图形处理
 
-[简书CMake](https://www.jianshu.com/p/cbee27847638)
-[CMake-Best-Practices](https://github.com/PacktPublishing/CMake-Best-Practices)
-[CMake-Best-Practices翻译](https://github.com/xiaoweiChen/CMake-Best-Practices)
+客户端开发趋势：跨平台、多端开发，electron等<br>
+wxWidget-C++免费跨平台GUI框架
+
+1. 硕士及以上学历，计算机、应用数学、图形学和力学等相关专业或具备网格剖分开发经验；
+2. 精通三维点云、网格几何处理、网格分割合并等计算机图形学相关算法，拥有大规模图形的优化、Healing和图形识别等相关经验；
+3. 熟悉ACIS、VKI和Meshgems优先；
+4. 精通Windows和Linux 平台下C++编程，对boost，Eigen、CGAL等常见的数学计算或图形几何处理开源库者熟悉者优先。
+

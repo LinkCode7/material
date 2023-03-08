@@ -1,19 +1,19 @@
 # Github项目
 
 ## C++
- | 名称 | 说明 |
+| 名称 | 说明 |
 | :-:| :- |
 [C++核心编程指南](https://github.com/lynnboy/CppCoreGuidelines-zh-CN.git) | C++之父Bjarne Stroustrup推荐的C++编程指南
 [《C++ Templates 第二版》中文翻译](https://github.com/Walton1128/CPP-Templates-2nd--.git) | 作者个人翻译，非官方
-[chaneyzorn/CMake-tutorial](https://github.com/chaneyzorn/CMake-tutorial) | CMake-tutorial翻译
-[toeb/moderncmake](https://github.com/toeb/moderncmake.git) | Samples for modern CMake
-[district10/cmake-templates](https://github.com/district10/cmake-templates) | Some CMake Templates (examples). Qt, Boost, OpenCV, C++11, etc
 [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) | C++ 资源列表，内容包括: 标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等
 [eteran/cpp-utilities](https://github.com/eteran/cpp-utilities/tree/master/logger) | C++11/C++14/C++17 实用程序类和函数
-
+[bsamseth/cpp-project](https://github.com/bsamseth/cpp-project) | C++ 项目的样板模板，带有 CMake、Doctest、Travis CI、Appveyor、Github Actions 和覆盖率报告
+[xiaoweiChen/CPP-20-STL-Cookbook](https://github.com/xiaoweiChen/CPP-20-STL-Cookbook) | 《C++20 STL Cookbook》的非专业个人翻译，LaTex配置
+[fredvaz/mastering_cpp](https://github.com/fredvaz/mastering_cpp) | The C++20 Masterclass : From Fundamentals to Advanced，个人Test，CMakeTest^_^
+[xiaoweiChen/CXX20-Get-Details](https://github.com/xiaoweiChen/CXX20-Get-Details) | C++20标准的教程，个人翻译
 
 ## Library
- | 名称 | 说明 |
+| 名称 | 说明 |
 | :-:| :- |
 [cxasm/notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是要国产替换同类软件，来自中国
 [gelldur/EventBus](https://github.com/gelldur/EventBus) | 简单且非常快速的事件总线
@@ -23,7 +23,7 @@
 
 
 ## Project
- | 名称 | 说明 |
+| 名称 | 说明 |
 | :-:| :- |
 [google/googletest](https://github.com/google/googletest) | Google 的 C++ 测试框架
 [google/skia](https://skia.googlesource.com/skia.git) | Skia 是一个完整的 2D 图形库，用于绘制文本、几何图形和图像
@@ -33,13 +33,32 @@
 [kitschpatrol/Cinder-Pango](https://github.com/kitschpatrol/Cinder-Pango) | 将Pango文本布局和渲染库与Cinder一起使用的包装器。支持使用 Cinder 的内置 TextBox 和 TextLayout 类难以实现的内联样式标记和复杂布局。
 
 ## Algorithm
- | 名称 | 说明 |
+| 名称 | 说明 |
 | :-:| :- |
 [Ivanqi/algorithm](https://github.com/Ivanqi/algorithm) | 整理一下使用过的算法和数据结构，课程来源：《数据结构和算法之美》-作者：王争，《程序员的数学基础课》-作者：黄申
 
+
+## Tool
+| 名称 | 说明 |
+| :-:| :- |
+[https://cmake.org/documentation](https://cmake.org/documentation) | CMake官网
+[chaneyzorn/CMake-tutorial](https://github.com/chaneyzorn/CMake-tutorial) | CMake-tutorial翻译
+[toeb/moderncmake](https://github.com/toeb/moderncmake.git) | Samples for modern CMake
+[district10/cmake-templates](https://github.com/district10/cmake-templates) | Some CMake Templates (examples). Qt, Boost, OpenCV, C++11, etc
+[简书CMake](https://www.jianshu.com/p/cbee27847638)
+[CMake-Best-Practices](https://github.com/PacktPublishing/CMake-Best-Practices)
+[CMake-Best-Practices翻译](https://github.com/xiaoweiChen/CMake-Best-Practices)
+[CMake 入门实战](https://www.hahack.com/codes/cmake/) | 简单清晰的，但不够系统
+[Modern CMake 简体中文版](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
+[Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) | cmake个人学习资料，import boost
+
+## Qt
+| 名称 | 说明 |
+| :-:| :- |
+[lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) | Qt 5 的终端仿真器小部件，也许是学习Qt的好项目
 
  ## Interview
 | 名称 | 说明 |
 | :-:| :- |
 [huihut/interview](https://github.com/huihut/interview) | C/C++ 技术面试相关的基础知识总结
-
+[rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) | 一份涵盖大部分 C++ 程序员所需要掌握的核心知识
